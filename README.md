@@ -1,35 +1,42 @@
-Alex Gaas
+### Alex Gaas
 
-A software engineer with over 17 years of experience in building robust, reliable, scalable and intelligent software solutions 
+A software engineer with over 17 years of experience in building robust, reliable, scalable and intelligent software solutions
 
-Strong problem-solving skills
-Self-starter, individual contributor, language / platform agnostic engineer
-Understanding and curiosity in creating highly available and scalable backend platforms
-Ability to create complex systems based on specialized algorithms and data structures
+#### Key skills:
 
-Qualifications (coding and development skills with experience in):
-object-oriented programming
-proficiency with multithreading and concurrency 
-event-driven design
-test-driven development
-proficiency with relational / column / document databases 
-proficiency with modern cloud solutions (Azure, AWS)
-Java, Go paired with standard libraries and frameworks 
++ Strong problem-solving skills
++ Self-starter, individual contributor, language / platform-agnostic engineer
++ Understanding and curiosity in creating highly available and scalable backend platforms
++ Ability to create complex systems based on specialized algorithms and data structures
 
-Master's degree of Computer Science
-Green Card
+#### Qualifications (coding and development skills with experience in):
++ object-oriented programming
++ proficiency with multithreading and concurrency
++ event-driven design
++ test-driven development
++ proficiency with relational / column / document databases
++ proficiency with modern cloud solutions (Azure, AWS)
++ _Java_, _Golang_ paired with standard libraries and frameworks
 
-Experience (years / position / company):
-2019 - current: Software Architect at Slalom Build
+#### Education / work permit:
+- Master's degree of Computer Science
+- Green Card
+
+#### Experience (years / position / company):
+- _2019 - current_: Software Architect at _Slalom Build_  
 Design and implementation of high-scalable IoT platform
-
-2015 - 2019: Senior Software Engineer at Productive Edge
-Design and implementation of car parking platform 
-
-2012 - 2015: Senior Software Engineer at ESRI
+\
+&nbsp;
+- _2015 - 2019_: Senior Software Engineer at _Productive Edge_  
+Design and implementation of car parking platform
+\
+&nbsp;
+- _2012 - 2015_: Senior Software Engineer at _ESRI_  
 Development of ArcGiS Server
-
-2005 - 2011: Engineer / Senior Software Engineer at Devexperts
+\
+&nbsp;
+- _2005 - 2011_: Engineer / Senior Software Engineer at _Devexperts_  
 Development of highly effective quote distribution subsystem
 
-GitHub - https://github.com/alexgaas
+#### Personal projects and articles:
+- https://github.com/alexgaas
