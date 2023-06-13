@@ -34,8 +34,7 @@ A software engineer with over 17 years of experience in building robust, reliabl
 Design and implementation of car parking platform
 \
 &nbsp;
-- #### _2012 - 2015_: Senior Software Engineer at _ESRI_  
-Development of ArcGiS Server
+- #### _2012 - 2015_: _ESRI_  
 + I am a senior software engineer who as part of team develops and maintain ArcGiS Server. 
 + I develop parallel IO subsystem to manage pipelines of haundreds gigabytes of spatial data. 
 + I provide that data output through REST API aggregated by geospatial layers. 
