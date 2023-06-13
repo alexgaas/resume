@@ -24,19 +24,23 @@ A software engineer with over 17 years of experience in building robust, reliabl
 
 #### Experience (years / position / company):
 - #### _2019 - current_: _Slalom Build_  
-> * I am a software architect who as part of team built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions 
+> * I am a software architect who as part of team built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions
+with 220 000 active user profiles
 > * I own and manage microservice architecture across the whole platform, including reliability metrics. As architect I create specifications of REST API, define acceptance criterias and non-functional requirements / technical analysis of furhter stories for other engineers
 > * As a skilled software engineer I build and manage a lot of custom infrastructure components in the platform (such as rate limiters, circuit breakers, deadlines) to achieve both high stability and scalability between services
 > * I am a active member and co-lead of JVM community which hosts events for 50+ coworkers montlhy-based to improve knoleadge sharing and workplace culture between employees
 
-- #### _2015 - 2019_: Senior Software Engineer at _Productive Edge_  
+- #### _2015 - 2019_: _Productive Edge_
+> * I am a senior software engineer who works on variety of consulting projects
+> * As part of team developed car parking platform (city of Chicago) including both frontend and backend
+> * Refactored and made technical / design proposals to improve backend / frontend healthcare platform 
 Design and implementation of car parking platform
 
 - #### _2012 - 2015_: _ESRI_  
 > * I am a senior software engineer who as part of team develops and maintain ArcGiS Server. 
 > * I develop parallel IO subsystem to manage pipelines of haundreds gigabytes of spatial data. 
 > * I provide that data output through REST API aggregated by geospatial layers. 
-> * As skilled engineer I delegate specific technical tasks to other engineers to achieve more effecience in team distributed accroos the world.
+> * As skilled engineer I delegate specific technical tasks to other engineers to achieve more effecience in team distributed accross the world.
 
 - #### _2005 - 2011_: _Devexperts_  
 > * I am a software engineer who develops and maintain highly effective quote distribution platform. 
