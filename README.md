@@ -22,7 +22,7 @@ A software engineer with over 17 years of experience in building robust, reliabl
 - Master's degree of Computer Science
 - Green Card
 
-#### Experience (years / position / company):
+#### Experience (years / company):
 - #### _2019 - current_: _Slalom Build_  
 > * I am a software architect who as part of team built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions
 with 220 000 active user profiles
