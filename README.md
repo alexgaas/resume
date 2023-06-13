@@ -27,7 +27,7 @@ A software engineer with over 17 years of experience in building robust, reliabl
 > * I am a software architect who as part of team built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions
 with 220 000 active user profiles
 > * I own and manage microservice architecture across the whole platform, including reliability metrics. As architect I create specifications of REST API for each microservice, define acceptance criterias and non-functional requirements / technical analysis of further stories for other engineers
-> * As a skilled software engineer I build and manage a lot of custom infrastructure components in the platform (such as rate limiters, circuit breakers, deadlines) to achieve both high stability and scalability between services
+> * As a skilled software engineer I build and manage a custom infrastructure components in the platform (such as rate limiters, circuit breakers, deadlines) to achieve both high stability and scalability of platform
 > * I am a active member and co-lead of JVM community which hosts events for 50+ coworkers monthly-based to improve knowledge sharing and workplace culture between employees
 
 - #### _2015 - 2019_: _Productive Edge_
