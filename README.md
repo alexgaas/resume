@@ -38,8 +38,8 @@ with 220 000 active user profiles
 - #### _2012 - 2015_: _ESRI_  
 > * I am a senior software engineer who as part of team develops and maintain ArcGiS Server
 > * I develop a parallel IO subsystem to manage pipelines of 100s GB of spatial data to achieve performance improvement 12 times more then previews solution
-> * I provide that data output through REST API aggregated by geospatial layers
-> * As a skilled engineer I delegate specific technical tasks to other engineers to achieve more efficiency in teams distributed across the world
+> * I provide that data output through REST API aggregated by geospatial layers for ArcGiS Online platform for millions of users accross the world
+> * As a skilled engineer I delegate specific technical tasks to other engineers to achieve more efficiency in teams distributed between US and UK
 
 - #### _2005 - 2011_: _Devexperts_  
 > * I am a software engineer who develops and maintain highly effective quote distribution platform.
