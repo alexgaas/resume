@@ -31,19 +31,19 @@ with 220 000 active user profiles
 > * I am a active member and co-lead of JVM community which hosts events for 50+ coworkers monthly-based to improve knowledge sharing and workplace culture between employees
 
 - #### _2015 - 2019_: _Productive Edge_
-> * I am a senior software engineer who works on variety of consulting projects
+> * As a senior software engineer I was working on variety of consulting projects
 > * As part of team developed car parking platform including both frontend and backend to achieve online system to track 5000+ parking spots in downtown of Chicago in real time
-> * As part of team refactored and made technical / design proposals to improve backend / frontend healthcare platform to reduce million(s) dollar costs of cloud expenses
+> * Refactored and made technical / design proposals to improve backend / frontend healthcare platform to reduce million(s) dollar costs of cloud expenses
 
 - #### _2012 - 2015_: _ESRI_  
-> * I am a senior software engineer who as part of team develops and maintain ArcGiS Server
-> * I develop a parallel IO subsystem to manage pipelines of 100s GB of spatial data to achieve performance improvement 12 times more then previews solution
-> * I provide that data output through REST API aggregated by geospatial layers for ArcGiS Online platform for millions of users accross the world
-> * As a skilled engineer I delegate specific technical tasks to other engineers to achieve more efficiency in teams distributed between US and UK
+> * As a senior software engineer who was a part of team developed and maintained ArcGiS Server
+> * Developed a parallel IO subsystem to manage pipelines of 100s GB of spatial data to achieve performance improvement 12 times more then previews solution
+> * Designed and implemented that data output through REST API aggregated by geospatial layers for ArcGiS Online platform for millions of users accross the world
+> * As a skilled engineer I delegated specific technical tasks to other engineers to achieve more efficiency in teams distributed between US and UK
 
 - #### _2005 - 2011_: _Devexperts_  
-> * I am a software engineer who develops and maintain highly effective quote distribution platform.
-> * I develop hashmap-based scalable algorithms to quote parallel aggregation of data to achieve the most effective collapse of millions of market tickets per second to specific market charts.
+> * As a software engineer I developed and maintained highly effective quote distribution platform.
+> * Developed hashmap-based scalable algorithms to quote parallel aggregation of data to achieve the most effective collapse of millions of market tickets per second to specific market charts.
 
 #### Personal projects and articles:
 - https://github.com/alexgaas
