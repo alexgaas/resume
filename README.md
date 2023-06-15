@@ -42,8 +42,8 @@ with 220 000 active user profiles
 > * As a skilled engineer I delegated specific technical tasks to other engineers to achieve more efficiency in teams distributed between US and UK
 
 - #### _2005 - 2011_: _Devexperts_  
-> * As a software engineer I developed and maintained highly effective quote distribution platform
-> * Developed hashmap-based scalable data structures of parallel aggregation to achieve the most effective collapse of millions stock quotes to specific trading charts
+> * As a software engineer, I have successfully developed and maintained a highly efficient quote distribution platform
+> * Developed a highly efficient and scalable data structure using hashmaps to facilitate parallel aggregation to achieve optimal consolidation of millions of stock quotes into specific trading charts
 
 #### Personal projects and articles:
 - https://github.com/alexgaas
