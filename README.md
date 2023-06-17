@@ -37,13 +37,13 @@ with 220 000 active user profiles
 
 - #### _2012 - 2015_: _ESRI_  
 > * As a senior software engineer who was a part of team developed and maintained ArcGiS Server
-> * Developed a parallel IO subsystem to manage 100s GB pipelines of spatial data logs to achieve performance improvement 12 times more then previews solution
+> * Developed a parallel IO pipeline subsystem to manage 100s GB of spatial data logs to achieve performance improvement 12 times more then previews solution
 > * Designed and implemented geospatial data output through REST API aggregated by layers for ArcGiS Online platform used by millions of users accross the world
 > * As a skilled engineer I delegated specific technical tasks to other engineers to achieve more efficiency in teams distributed between US and UK
 
 - #### _2005 - 2011_: _Devexperts_  
 > * As a software engineer, I have successfully developed and maintained a highly efficient quote distribution platform
-> * Developed a highly efficient and scalable data structure using hashmaps to facilitate parallel aggregation to achieve optimal consolidation of millions of stock quotes into specific trading charts
+> * Developed a highly efficient and scalable data structure using hashmaps to facilitate parallel aggregation and achieve optimal consolidation of millions stock quotes into specific trading charts
 
 #### Personal projects and articles:
 - https://github.com/alexgaas
