@@ -24,7 +24,7 @@ A software engineer with over 17 years of experience in building robust, reliabl
 
 #### Experience (years / company):
 - #### _2019 - current_: _Slalom Build_  
-> * I am a software architect who as part of team built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions
+> * I am a software architect who built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions
 with 220 000 active user profiles
 > * I own and manage microservice architecture across the whole platform, including reliability metrics. As architect I create specifications of API, define acceptance criterias and non-functional requirements / technical analysis of further stories
 > * As a skilled software engineer I build and manage a custom infrastructure components in the platform (such as rate limiters, circuit breakers, deadlines) to achieve both high stability and scalability of platform
@@ -32,11 +32,11 @@ with 220 000 active user profiles
 
 - #### _2015 - 2019_: _Productive Edge_
 > * As a senior software engineer I was working on variety of projects
-> * As part of team developed car parking platform including both frontend and backend to achieve online system to track 5000+ parking spots in downtown of Chicago in real time
+> * Developed car parking platform including both frontend and backend to achieve online system to track 5000+ parking spots in downtown of Chicago in real time
 > * Refactored and made technical / design proposals to improve backend / frontend healthcare platform to reduce million(s) dollar costs of cloud expenses
 
 - #### _2012 - 2015_: _ESRI_  
-> * As a senior software engineer who was a part of team developed and maintained ArcGiS Server
+> * As a senior software engineer developed and maintained ArcGiS Server
 > * Developed a parallel IO pipeline subsystem to manage 100s GB of spatial data logs to achieve performance improvement 12 times more then previews solution
 > * Designed and implemented geospatial data output through REST API aggregated by layers for ArcGiS Online platform used by millions of users accross the world
 > * As a skilled engineer I delegated specific technical tasks to other engineers to achieve more efficiency in teams distributed between US and UK
