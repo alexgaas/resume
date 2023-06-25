@@ -22,6 +22,10 @@ A software engineer with over 17 years of experience in building robust, reliabl
 - Master's degree of Computer Science
 - Green Card
 
+#### Personal projects and articles:
+- #### [group](https://github.com/alexgaas/group) and [distr-group](https://github.com/alexgaas/distr-group)
+> * Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by)
+
 #### Experience (years / company):
 - #### _2019 - current_: _Slalom Build_  
 > * I am a software architect who built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions
@@ -44,6 +48,3 @@ with 220 000 active user profiles
 - #### _2005 - 2011_: _Devexperts_  
 > * As a software engineer, I have successfully developed and maintained a highly efficient quote distribution platform
 > * Developed a highly efficient and scalable data structure using hashmaps to facilitate parallel aggregation and achieve optimal consolidation of millions stock quotes into specific trading charts
-
-#### Personal projects and articles:
-- https://github.com/alexgaas
