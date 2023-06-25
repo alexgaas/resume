@@ -23,8 +23,10 @@ A software engineer with over 17 years of experience in building robust, reliabl
 - Green Card
 
 #### Personal projects and articles:
-- #### [group](https://github.com/alexgaas/group) and [distr-group](https://github.com/alexgaas/distr-group)
-> * Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by)
+- Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [group](https://github.com/alexgaas/group), [distr-group](https://github.com/alexgaas/distr-group)
+- Implementation of Exploit-Explore algorithm to dynamically identify the best option for exploitation based on a reasonable number of exploration attempts in order to search for the optimal score - (exploit-explore)[https://github.com/alexgaas/explore]
+- Implementation of _price-action_ trading strategy - (price-action)[https://github.com/alexgaas/price-action]
+- Accrual Loyalty Service: Golang microservice example based on concept of Clean Architecture - (accrual loyalty service)[https://github.com/alexgaas/order-reward]
 
 #### Experience (years / company):
 - #### _2019 - current_: _Slalom Build_  
