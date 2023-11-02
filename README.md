@@ -15,8 +15,8 @@ A software engineer with over 17 years of experience in building robust, reliabl
 + event-driven design
 + test-driven development
 + proficiency with relational / column / document databases
-+ proficiency with modern cloud solutions (Azure, AWS)
-+ _Golang_, _Kotlin_, _Java_,  paired with standard libraries and frameworks
++ proficiency with modern cloud solutions - Azure, AWS
++ _Java_, _Kotlin_, _Golang_,  paired with standard libraries and frameworks
 
 #### Education:
 - Master's degree of Computer Science
