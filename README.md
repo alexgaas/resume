@@ -18,9 +18,11 @@ A software engineer with over 17 years of experience in building robust, reliabl
 + proficiency with modern cloud solutions (Azure, AWS)
 + _Golang_, _Kotlin_, _Java_,  paired with standard libraries and frameworks
 
-#### Education / work permit:
+#### Education:
 - Master's degree of Computer Science
-- Green Card
+
+#### Frameworks
+Spring Boot, Akka, Kafka, Kubernates, Protocol Buffers
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [group](https://github.com/alexgaas/group) and [dist-group](https://github.com/alexgaas/dist-group)
@@ -30,7 +32,7 @@ A software engineer with over 17 years of experience in building robust, reliabl
 
 #### Experience (years / company):
 - #### _2019 - current_: _Slalom Build_  
-> * I am a software architect who built from scratch and manages a cloud-based high-scalable IoT platform contains of 20 microservices and ~50 cloud functions
+> * I am a software architect who built from scratch and manages a cloud-based high-scalable IoT platform contains of 200 microservices
 with 220 000 active user profiles
 > * I own and manage microservice architecture across the whole platform, including reliability metrics. As architect I create specifications of API, define acceptance criterias and non-functional requirements / technical analysis of further stories
 > * As a skilled software engineer I build and manage a custom infrastructure components in the platform (such as rate limiters, circuit breakers, deadlines) to achieve both high stability and scalability of platform
