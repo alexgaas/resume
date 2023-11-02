@@ -12,7 +12,6 @@ A software engineer with over 17 years of experience in building robust, reliabl
 #### Qualifications (coding and development skills with experience in):
 + object-oriented programming
 + proficiency with patterns for building highly concurrent, distributed, and resilient message-driven applications
-+ event-driven design
 + test-driven development
 + proficiency with relational / column / document databases
 + proficiency with modern cloud solutions - Azure, AWS
