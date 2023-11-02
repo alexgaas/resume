@@ -6,17 +6,17 @@ A software engineer with over 17 years of experience in building robust, reliabl
 
 + Strong problem-solving skills
 + Self-starter, individual contributor, language / platform-agnostic engineer
-+ Understanding and curiosity in creating highly available and scalable backend platforms
++ Understanding and curiosity in creating highly available, reliable and scalable backend platforms
 + Ability to create complex systems based on specialized algorithms and data structures
 
 #### Qualifications (coding and development skills with experience in):
 + object-oriented programming
-+ proficiency with multithreading and concurrency
++ proficiency with patterns for building highly concurrent, distributed, and resilient message-driven applications
 + event-driven design
 + test-driven development
 + proficiency with relational / column / document databases
 + proficiency with modern cloud solutions - Azure, AWS
-+ _Java_, _Kotlin_, _Golang_,  paired with standard libraries and frameworks
++ _Java_, _Kotlin_, _Golang_ paired with standard libraries and frameworks
 
 #### Education:
 - Master's degree of Computer Science
