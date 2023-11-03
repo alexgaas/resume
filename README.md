@@ -20,7 +20,7 @@ A software engineer with over 17 years of experience in building robust, reliabl
 #### Education:
 - Master's degree of Computer Science
 
-#### Frameworks
+#### Frameworks / Platforms
 Spring Boot, Akka, Kafka, Kubernates, Protocol Buffers
 
 #### Personal projects and articles:
