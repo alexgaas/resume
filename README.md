@@ -33,8 +33,8 @@ Spring Boot, Akka, Kafka, Kubernates, Protocol Buffers
 - #### _2019 - current_: _Slalom Build_  
 > * I am a software architect who built from scratch and manages a cloud-based high-scalable IoT platform contains of 200 microservices
 with 220 000 active user profiles
-> * I own and manage microservice architecture across the whole platform, including reliability metrics. As architect I create specifications of API, define acceptance criterias and non-functional requirements / technical analysis of further stories
-> * As a skilled software engineer I build and manage a custom infrastructure components in the platform (such as rate limiters, circuit breakers, deadlines) to achieve both high stability and scalability of platform
+> * I own and manage microservice architecture across the whole platform, including reliability metrics. As senior engineer I create specifications of API, define acceptance criterias and non-functional requirements / technical analysis of further stories
+> * As a skilled software engineer I build and manage a custom infrastructure components in the platform (such as advanced retries strategies, rate limiters, circuit breakers, deadlines) to achieve both high stability and scalability of platform
 > * I am a active member and co-lead of JVM community which hosts events for 50+ coworkers monthly-based to improve knowledge sharing and workplace culture between employees
 
 - #### _2015 - 2019_: _Productive Edge_
