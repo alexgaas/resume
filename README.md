@@ -21,7 +21,7 @@ A software engineer with over 17 years of experience in building robust, reliabl
 - Master's degree of Computer Science
 
 #### Frameworks / Platforms
-Spring Boot, Akka, Kafka, Kubernates, Protocol Buffers
+Spring Boot, Kafka, Kubernates, Protocol Buffers
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [group](https://github.com/alexgaas/group) and [dist-group](https://github.com/alexgaas/dist-group)
