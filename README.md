@@ -12,7 +12,6 @@ A software engineer with over 17 years of experience in building robust, reliabl
 #### Qualifications (coding and development skills with experience in):
 + object-oriented programming
 + proficiency with patterns for building highly concurrent, distributed, and resilient message-driven applications
-+ test-driven development
 + proficiency with relational / column / document databases
 + proficiency with modern cloud solutions - Azure, AWS
 + _Java_, _Kotlin_, _Golang_ paired with standard libraries and frameworks
@@ -21,13 +20,12 @@ A software engineer with over 17 years of experience in building robust, reliabl
 - Master's degree of Computer Science
 
 #### Frameworks / Platforms
-Spring Boot, Kafka, Akka, Kubernates, Protocol Buffers
+Spring Boot, Kafka, Kubernates, Protocol Buffers, GraphQL
 
 #### Personal projects and articles:
-- Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [group](https://github.com/alexgaas/group) and [dist-group](https://github.com/alexgaas/dist-group)
+- Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
 - Implementation of Exploit-Explore algorithm to dynamically identify the best option for exploitation based on a reasonable number of exploration attempts in order to search for the optimal score - [exploit-explore](https://github.com/alexgaas/explore)
-- Implementation of _price-action_ trading strategy - [price-action](https://github.com/alexgaas/price-action)
-- Accrual Loyalty Service: Golang microservice example based on concept of Clean Architecture - [accrual loyalty service](https://github.com/alexgaas/order-reward)
+- Implementation of evaluation with Bayesian optimization strategy for Wu-Manber, Aho-Carasic, Horspool search algorithms - [search3](https://github.com/alexgaas/search3)
 
 #### Experience (years / company):
 - #### _2019 - current_: _Slalom Build_  
