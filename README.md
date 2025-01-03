@@ -3,7 +3,7 @@ A software engineer with over 20 years of experience in building robust, reliabl
 
 #### Key skills:
 + Strong problem-solving skills
-+ Self-starter, individual contributor, language / platform-agnostic engineer
++ Self-starter, individual contributor, platform-agnostic engineer
 + Understanding and curiosity in creating highly secure, available, reliable and scalable backend platforms
 + Ability to create complex systems based on specialized algorithms and data structures
 
@@ -31,14 +31,14 @@ Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
 _Tags_:
 AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation, Kubernates
 
-#### Indentity skills
+#### Indentity related skills
 + Proficient with hardware security keys provisioning, hardware security modules (HSM) and related software tools (OpenSC)
 + Proficient with protocols of generating and signing root, subordinate and leaf x509 certificates, private keys and CSR with OpenSSL
 + Proficient to build secure client libraries between services with mTLS
-+ Proficient with creating scalable identity-specific tools (entry immutable ledger, idenity provider)
++ Proficient with creating scalable identity-specific tools (attribute ledger, idenity provider)
 
 _Tags_:
-OpenSSL, mTLS, Yubico SDK, Yubico HSM, opensc-pkcs11
+OpenSSL, mTLS, opensc-pkcs11
 
 #### Go frameworks and libraries
 crypto, zerolog, aws-sdk-go, viper, cobra, pflag, go-chi, ginkgo, gomega, huma, gomock, go-jose, go-resiliency
