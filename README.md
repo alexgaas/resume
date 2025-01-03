@@ -41,7 +41,12 @@ _Tags_:
 OpenSSL, mTLS, opensc-pkcs11
 
 #### Go frameworks and libraries
-crypto, zerolog, aws-sdk-go, viper, cobra, pflag, go-chi, ginkgo, gomega, huma, gomock, go-jose, go-resiliency
++ cryptography - crypto, go-jose
++ logging - zerolog
++ configuration - viper, cobra, pflag
++ middleware - go-chi, huma, go-resiliency
++ unit tests - ginkgo, gomega, gomock
++ cloud - aws-sdk-go, msgraph-sdk-go
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
