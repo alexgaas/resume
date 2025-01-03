@@ -11,14 +11,14 @@ A software engineer with over 20 years of experience in building robust, reliabl
 - Master's degree of Computer Science
 
 #### Qualifications (coding and development skills with experience in):
-+ object-oriented programming
-+ dependancy injection
-+ proficiency with creating sufficient unit and integration test specifications and simulations to reflect real system use cases
-+ proficiency with patterns for building highly concurrent, distributed, and resilient message-driven applications
-+ proficiency with relational and document databases
-+ proficiency with modern cloud solutions - AWS, Azure
++ Object-oriented programming
++ Dependancy injection
++ Proficiency with creating sufficient unit and integration test specifications and simulations to reflect real system use cases
++ Proficiency with patterns for building highly concurrent, distributed, and resilient message-driven applications
++ Proficiency with relational and document databases
++ Proficiency with modern cloud solutions - AWS, Azure
 + _Go_ paired with Docker for efficient development
-+ proficiency to build effective custom storage solutions based on redis, opensearch, s3
++ Proficiency to build effective custom storage solutions based on redis, opensearch, s3
 
 _Tags_:
 Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
@@ -41,12 +41,12 @@ _Tags_:
 OpenSSL, mTLS, opensc-pkcs11
 
 #### Go frameworks and libraries
-+ cryptography - crypto, go-jose
-+ logging - zerolog
-+ configuration - viper, cobra, pflag
-+ middleware - go-chi, huma, go-resiliency
-+ unit tests - ginkgo, gomega, gomock
-+ cloud - aws-sdk-go, msgraph-sdk-go
++ _cryptography_ - crypto, go-jose
++ _logging_ - zerolog
++ _configuration_ - viper, cobra, pflag
++ _middleware_ - go-chi, huma, go-resiliency
++ _unit tests_ - ginkgo, gomega, gomock
++ _cloud_ - aws-sdk-go, msgraph-sdk-go
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
