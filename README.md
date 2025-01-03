@@ -13,28 +13,29 @@ A software engineer with over 20 years of experience in building robust, reliabl
 #### Qualifications (coding and development skills with experience in):
 + object-oriented programming
 + dependancy injection
++ proficiency with creating sufficient unit and integration test specifications and simulations to reflect real system use cases
 + proficiency with patterns for building highly concurrent, distributed, and resilient message-driven applications
-+ proficiency with relational / column / document databases
-+ proficiency with modern cloud solutions - Azure, AWS, Kubernates
++ proficiency with relational and document databases
++ proficiency with modern cloud solutions - AWS, Azure
 + _Go_ paired with Docker for efficient development
++ proficiency to build effective custom storage solutions based on redis, opensearch, s3
 
 _Tags_:
-Go, Docker, OOP, DI, Azure, AWS, Kubernates
+Go, Docker, OOP, DI, Azure, AWS
 
 #### Cloud-based skills
-+ Proficient to build highly concurrent, distributed, and resilient message-driven idenity services based off AWS Lambda, AWS Elastic Container Service and Kubernates
-+ Proficient to build AWS metrics, alarm, dashboards and Cloudwatch filters to provide efficient observability of the whole system
-+ Proficient to build and maintain Azure EntraID applications
++ Proficient to build services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
++ Proficient to build AWS metrics, alerts, dashboards and efficient Cloudwatch logs to provide efficient observability
 + Proficient with Terraform, AWS CDK and CloudFormation to deploy services into cloud space
 
 _Tags_:
-AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation
+AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation, Kubernates
 
 #### Indentity skills
-+ Proficient with Yubico SDK, YubicoHSM and OpenSC
-+ Proficient with generating and signing root, subordinate and leaf x509 certificates with OpenSSL
-+ Proficient with creating secure clients between services using mTLS
-+ Proficient with creating scalable identity-specific tools (entry ledger, idenity provider)
++ Proficient with hardware security keys provisioning, hardware security modules (HSM) and related software tools (OpenSC)
++ Proficient with protocols of generating and signing root, subordinate and leaf x509 certificates, private keys and CSR with OpenSSL
++ Proficient to build secure client libraries between services with mTLS
++ Proficient with creating scalable identity-specific tools (entry immutable ledger, idenity provider)
 
 _Tags_:
 ssl, tls, OpenSSL, Yubico SDK, Yubico HSM, opensc-pkcs11
