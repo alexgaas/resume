@@ -21,7 +21,7 @@ A software engineer with over 20 years of experience in building robust, reliabl
 + proficiency to build effective custom storage solutions based on redis, opensearch, s3
 
 _Tags_:
-Go, Docker, OOP, DI, Azure, AWS
+Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
 
 #### Cloud-based skills
 + Proficient to build services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
@@ -38,10 +38,10 @@ AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS C
 + Proficient with creating scalable identity-specific tools (entry immutable ledger, idenity provider)
 
 _Tags_:
-ssl, tls, OpenSSL, Yubico SDK, Yubico HSM, opensc-pkcs11
+OpenSSL, mTLS, Yubico SDK, Yubico HSM, opensc-pkcs11
 
-#### Frameworks and libraries
-crypto, zerolog, aws-sdk-go, viper, cobra, redis, opensearch, chi, ginkgo, gomega, huma, gomock, jose
+#### Go frameworks and libraries
+crypto, zerolog, aws-sdk-go, viper, cobra, pflag, go-chi, ginkgo, gomega, huma, gomock, go-jose, go-resiliency
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
