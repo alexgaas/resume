@@ -35,7 +35,7 @@ AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS C
 + Proficient with hardware security keys provisioning, hardware security modules (HSM) and related software tools (OpenSC)
 + Proficient with protocols of generating and signing root, subordinate and leaf x509 certificates, private keys and CSR with OpenSSL
 + Proficient to build secure client libraries between services with mTLS
-+ Proficient with creating scalable identity-specific tools (attribute ledger, idenity provider)
++ Proficient with creating scalable identity-specific tools - attribute ledger, idenity provider
 
 _Tags_:
 OpenSSL, mTLS, opensc-pkcs11
@@ -46,7 +46,7 @@ OpenSSL, mTLS, opensc-pkcs11
 + _configuration_ - viper, cobra, pflag
 + _middleware_ - go-chi, huma, go-resiliency
 + _unit tests_ - ginkgo, gomega, gomock
-+ _cloud_ - aws-sdk-go, msgraph-sdk-go
++ _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
