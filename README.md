@@ -1,4 +1,4 @@
-### Alex Gaas / Software Engineer / Identity Tools
+### Alex Gaas / Platform Engineer / Identity Tools
 A software engineer with over 20 years of experience in building robust, reliable, scalable and intelligent software solutions.
 
 #### Key skills:
@@ -32,19 +32,20 @@ _Tags_:
 AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation, Kubernates
 
 #### Indentity related skills
++ Proficient with building PKI infrastructure and automation with AWS ACM-PCA
 + Proficient with hardware security keys provisioning, hardware security modules (HSM) and related software tools (OpenSC)
 + Proficient with protocols of generating and signing root, subordinate and leaf x509 certificates, private keys and CSR with OpenSSL
 + Proficient to build secure client libraries between services with mTLS
-+ Proficient with creating scalable identity-specific tools - attribute ledger, idenity provider
++ Proficient with creating scalable identity-specific tools - attribute ledger, PKI services
 
 _Tags_:
-OpenSSL, mTLS, opensc-pkcs11
+ACM-PCA, OpenSSL, mTLS, opensc-pkcs11
 
 #### Go frameworks and libraries
 + _cryptography_ - crypto, go-jose
 + _logging_ - zerolog
 + _configuration_ - viper, cobra, pflag
-+ _middleware_ - go-chi, huma, go-resiliency
++ _middleware_ - go-chi, huma, go-resiliency, oapi-codegen
 + _unit tests_ - ginkgo, gomega, gomock
 + _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
 
