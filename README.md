@@ -2,17 +2,17 @@
 A software engineer with over 20 years of experience in building robust, reliable, scalable and intelligent software solutions.
 
 #### Key skills:
-+ Strong problem-solving skills
-+ Self-starter, individual contributor, platform-agnostic engineer
-+ Understanding and curiosity in creating highly secure, available, reliable and scalable backend platforms
-+ Ability to create complex systems based on specialized algorithms and data structures
++ strong problem-solving skills
++ self-starter, individual contributor, platform-agnostic engineer
++ understanding and curiosity in creating highly secure, available, reliable and scalable backend platforms
++ ability to create complex systems based on specialized algorithms and data structures
 
 #### Education:
 - Master's degree of Computer Science
 
 #### Qualifications (coding and development skills with experience in):
 + object-oriented programming
-+ dependancy injection
++ dependency injection
 + creating sufficient unit and integration test specifications and simulations to reflect real system use cases
 + patterns for building highly concurrent, distributed, and resilient message-driven applications
 + relational and document databases
