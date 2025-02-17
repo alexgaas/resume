@@ -1,4 +1,4 @@
-### Alex Gaas / Platform Engineer / Identity Tools
+### Alex Gaas / Software Engineer / Identity Tools
 A software engineer with over 20 years of experience in building robust, reliable, scalable and intelligent software solutions.
 
 #### Key skills:
@@ -11,35 +11,25 @@ A software engineer with over 20 years of experience in building robust, reliabl
 - Master's degree of Computer Science
 
 #### Qualifications (coding and development skills with experience in):
-+ Object-oriented programming
-+ Dependancy injection
-+ Proficiency with creating sufficient unit and integration test specifications and simulations to reflect real system use cases
-+ Proficiency with patterns for building highly concurrent, distributed, and resilient message-driven applications
-+ Proficiency with relational and document databases
-+ Proficiency with modern cloud solutions - AWS, Azure
++ object-oriented programming
++ dependancy injection
++ creating sufficient unit and integration test specifications and simulations to reflect real system use cases
++ patterns for building highly concurrent, distributed, and resilient message-driven applications
++ relational and document databases
++ modern cloud solutions - AWS, Azure
 + _Go_ paired with Docker for efficient development
-+ Proficiency to build effective custom storage solutions based on redis, opensearch, s3
-
++ build effective custom storage solutions
+  
 _Tags_:
 Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
 
-#### Cloud-based skills
-+ Proficient to build services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
-+ Proficient to build AWS metrics, alerts, dashboards and efficient Cloudwatch logs to provide efficient observability
-+ Proficient with Terraform, AWS CDK and CloudFormation to deploy services into cloud space
+#### Cloud-based skills (proficient to/with):
++ build services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
++ Terraform, AWS CDK and CloudFormation to deploy services into cloud space
++ build AWS metrics, alerts, dashboards and efficient Cloudwatch logs to provide efficient observability
 
 _Tags_:
 AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation, Kubernates
-
-#### Indentity related skills
-+ Proficient with building PKI infrastructure and automation with AWS ACM-PCA
-+ Proficient with hardware security keys provisioning, hardware security modules (HSM) and related software tools (OpenSC)
-+ Proficient with protocols of generating and signing root, subordinate and leaf x509 certificates, private keys and CSR with OpenSSL
-+ Proficient to build secure client libraries between services with mTLS
-+ Proficient with creating scalable identity-specific tools - attribute ledger, PKI services
-
-_Tags_:
-ACM-PCA, OpenSSL, mTLS, opensc-pkcs11
 
 #### Go frameworks and libraries
 + _cryptography_ - crypto, go-jose
@@ -48,6 +38,16 @@ ACM-PCA, OpenSSL, mTLS, opensc-pkcs11
 + _middleware_ - go-chi, huma, go-resiliency, oapi-codegen
 + _unit tests_ - ginkgo, gomega, gomock
 + _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
+
+#### Indentity related skills (proficient to/with):
++ building PKI infrastructure and automation with AWS ACM-PCA
++ automation of provisioning with hardware security modules (HSM) and related software tools (OpenSC)
++ build automation of generating, signing and managing (root, subordinate and leaf) x509 certificates, private keys and CSR
++ build secure client libraries between identity services with mTLS
++ creating scalable identity-specific tools - attribute ledger, PKI services
+
+_Tags_:
+ACM-PCA, OpenSSL, mTLS, opensc-pkcs11
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
