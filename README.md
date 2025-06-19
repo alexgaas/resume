@@ -1,11 +1,11 @@
-### Alex Gaas / Software Engineer / Identity Tools
+### Alex Gaas / Software Engineer / Cloud / Backend
 A software engineer with over 20 years of experience in building robust, reliable, scalable and intelligent software solutions.
 
 #### Key skills:
 + strong problem-solving skills
 + self-starter, individual contributor, platform-agnostic engineer
 + understanding and curiosity in creating highly secure, available, reliable and scalable backend platforms
-+ ability to create complex systems based on specialized algorithms and data structures
++ ability to effective domain-specific database solutions
 
 #### Education:
 - Master's degree of Computer Science
@@ -18,7 +18,6 @@ A software engineer with over 20 years of experience in building robust, reliabl
 + relational and document databases
 + modern cloud solutions - AWS, Azure
 + _Go_ paired with Docker for efficient development
-+ build effective custom storage solutions
   
 _Tags_:
 Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
@@ -39,19 +38,10 @@ AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS C
 + _unit tests_ - ginkgo, gomega, gomock
 + _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
 
-#### Indentity related skills (proficient to/with):
-+ building PKI infrastructure and automation with AWS ACM-PCA
-+ automation of provisioning with hardware security modules (HSM) and related software tools (OpenSC)
-+ build automation of generating, signing and managing (root, subordinate and leaf) x509 certificates, private keys and CSR
-+ build secure client libraries between identity services with mTLS
-+ creating scalable identity-specific tools - attribute ledger, PKI services
-
-_Tags_:
-ACM-PCA, OpenSSL, mTLS, opensc-pkcs11
-
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
 - Bayesian optimization strategy implementations:
   - Hash-based to identify best option for set of compression algorithms - [exploit-explore](https://github.com/alexgaas/explore)
   - Gaussian randomization to evaluate best score for Wu-Manber, Aho-Carasic, Horspool search algorithms - [search3](https://github.com/alexgaas/search3)
+- Golang microservice example based on concept of Clean Architecture - [order-reward](https://github.com/alexgaas/order-reward)
 
