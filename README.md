@@ -5,7 +5,7 @@ A software engineer with over 20 years of experience in building robust, reliabl
 + strong problem-solving skills
 + self-starter, individual contributor, platform-agnostic engineer
 + understanding and curiosity in creating highly secure, available, reliable and scalable backend platforms
-+ ability to effective domain-specific database solutions
++ ability to build effective domain-specific datastore solutions
 
 #### Education:
 - Master's degree of Computer Science
@@ -37,6 +37,7 @@ AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS C
 + _middleware_ - go-chi, huma, go-resiliency, oapi-codegen
 + _unit tests_ - ginkgo, gomega, gomock
 + _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
++ _protocols_ - http/https, grpc, mTLS
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
