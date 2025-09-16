@@ -5,6 +5,7 @@ A software engineer with over 20 years of experience in building robust, reliabl
 + strong problem-solving skills
 + self-starter, individual contributor, platform-agnostic engineer
 + understanding and curiosity in creating highly secure, available, reliable and scalable backend platforms
++ ability to create complex systems based on specialized algorithms and data structures
 
 #### Education:
 - Master's degree of Computer Science
@@ -22,8 +23,8 @@ Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
 
 #### Cloud-based skills (proficient to/with build):
 + services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
-+ Terraform, AWS CDK and CloudFormation to deploy services into cloud space
-+ AWS metrics, alerts, dashboards and efficient Cloudwatch logs to provide efficient observability
++ Terraform, AWS CDK and CloudFormation to manage services in the cloud space
++ AWS metrics, alerts, dashboards and Cloudwatch logs to provide efficient observability
 
 _Tags_:
 AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation, Kubernates
@@ -33,6 +34,9 @@ AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS C
 - TPM-based device posture in the private networks
 - secure client libraries between identity services with mTLS
 - services based off kerberos authentication
+
+_Tags_:
+ACM-PCA, OpenSSL, mTLS, Kerberos, PKI
 
 #### Go frameworks and libraries
 + _cryptography_ - crypto, go-jose
