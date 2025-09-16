@@ -14,24 +14,23 @@ A software engineer with over 20 years of experience in building robust, reliabl
 + dependency injection
 + creating sufficient unit and integration test specifications and simulations to reflect real system use cases
 + patterns for building highly concurrent, distributed, and resilient message-driven applications
-+ relational and document databases
 + modern cloud solutions - AWS, Azure
 + _Go_ paired with Docker for efficient development
   
 _Tags_:
 Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
 
-#### Cloud-based skills (proficient to/with):
-+ build services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
+#### Cloud-based skills (proficient to/with build):
++ services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
 + Terraform, AWS CDK and CloudFormation to deploy services into cloud space
-+ build AWS metrics, alerts, dashboards and efficient Cloudwatch logs to provide efficient observability
++ AWS metrics, alerts, dashboards and efficient Cloudwatch logs to provide efficient observability
 
 _Tags_:
 AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation, Kubernates
 
-#### Identity and network (proficient to/with):
+#### Identity and network (proficient to/with build):
 - PKI services (with automation of generating, signing and managing of x509 certificate chains)
-- TPM based device posture in the private networks
+- TPM-based device posture in the private networks
 - secure client libraries between identity services with mTLS
 - services based off kerberos authentication
 
