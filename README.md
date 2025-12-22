@@ -14,29 +14,31 @@ A software engineer with over 20 years of experience in building robust, reliabl
 + object-oriented programming
 + dependency injection
 + creating sufficient unit and integration test specifications and simulations to reflect real system use cases
-+ patterns for building highly concurrent, distributed, and resilient message-driven applications
++ patterns for building concurrent, distributed, and resilient message-driven applications
 + modern cloud solutions - AWS, Azure
 + _Go_ paired with Docker for efficient development
   
 _Tags_:
 Go, Docker, OOP, DI, Azure, AWS, redis, opensearch, s3
 
-#### Cloud-based skills (proficient to/with build):
+#### Cloud-based skills (proficient to/with build services and libraries):
 + services based off AWS Lambda, AWS Elastic Container Service and Kubernetes
-+ Terraform, AWS CDK and CloudFormation to manage services in the cloud space
++ AWS CDK, Terraform to manage services in the cloud space
 + AWS metrics, alerts, dashboards and Cloudwatch logs to provide efficient observability
 
 _Tags_:
-AWS Lambda, Cloudwatch, SQS, SNS, ECS, DynamoDB, Azure EntraID, Terraform, AWS CDK, Cloudformation, Kubernates
+AWS Lambda, Step Functions, Cloudwatch, SQS, SNS, ECS, DynamoDB, ALB, API Gateway, Azure EntraID, Terraform, AWS CDK, Kubernates
 
 #### Identity and network (proficient to/with build):
+- Custom data storage solutions based off Redis, Opensearch and s3 
 - PKI services (with automation of generating, signing and managing of x509 certificate chains)
-- TPM-based device posture in the private networks
-- secure client libraries between identity services with mTLS
-- services based off kerberos authentication
+- Identity providers based with support of OAuth, OIDC, SAML
+- Device posture in the private networks
+- Secure libraries between identity services with TLS/mTLS
+- Services based off Kerberos authentication
 
 _Tags_:
-ACM-PCA, OpenSSL, mTLS, Kerberos, PKI
+ACM-PCA, OpenSSL, libssh2, TLS/mTLS, Kerberos, PKI, IdP
 
 #### Go frameworks and libraries
 + _cryptography_ - crypto, go-jose
@@ -45,7 +47,7 @@ ACM-PCA, OpenSSL, mTLS, Kerberos, PKI
 + _middleware_ - gin, go-chi, huma, go-resiliency, oapi-codegen
 + _unit tests_ - ginkgo, gomega, gomock
 + _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
-+ _protocols_ - http/https, grpc, mTLS, kerberos
++ _protocols_ - http/https, grpc, TLS/mTLS, kerberos
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
