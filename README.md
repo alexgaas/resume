@@ -4,7 +4,6 @@ A software engineer with over 20 years of experience in building robust, reliabl
 #### Key skills:
 + strong problem-solving skills
 + self-starter, individual contributor, platform-agnostic engineer
-+ understanding and curiosity in creating secure, reliable and scalable backend platforms
 + ability to create complex systems based on specialized algorithms and data structures
 
 #### Education:
