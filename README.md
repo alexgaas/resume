@@ -26,7 +26,7 @@ Go, Docker, DI, OOP, AWS, Azure, Redis, Opensearch, s3
 + AWS metrics, alerts, dashboards and Cloudwatch logs to provide efficient observability
 
 _Tags_:
-AWS Lambda, Step Functions, Cloudwatch, SQS, SNS, ECS, DynamoDB, ALB, API Gateway, Azure EntraID, Terraform, AWS CDK, Kubernates
+AWS Lambda, Step Functions, Cloudwatch, SQS, SNS, ECS, DynamoDB, ALB, API Gateway, Amazon IAM, Azure EntraID, Terraform, AWS CDK, Kubernates
 
 #### Identity and network (proficient to/with build services and libraries):
 - custom data storage solutions based off Redis, Opensearch and s3 
@@ -37,7 +37,7 @@ AWS Lambda, Step Functions, Cloudwatch, SQS, SNS, ECS, DynamoDB, ALB, API Gatewa
 - services based off Kerberos authentication
 
 _Tags_:
-ACM-PCA, OpenSSL, TLS/mTLS, Kerberos, PKI, IdP
+acm-pca, OpenSSL, TLS / mTLS, Kerberos, PKI, IdP
 
 #### Go frameworks and libraries
 + _cryptography_ - crypto, go-jose
@@ -46,7 +46,7 @@ ACM-PCA, OpenSSL, TLS/mTLS, Kerberos, PKI, IdP
 + _middleware_ - gin, go-chi, huma, go-resiliency, oapi-codegen
 + _unit tests_ - ginkgo, gomega, gomock
 + _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
-+ _protocols_ - http/https, grpc, TLS/mTLS, kerberos
++ _protocols_ - http/https, grpc, TLS / mTLS, kerberos
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
