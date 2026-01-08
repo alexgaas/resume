@@ -39,15 +39,6 @@ AWS Lambda, Step Functions, Cloudwatch, SQS, SNS, ECS, DynamoDB, ALB, API Gatewa
 _Tags_:
 acm-pca, OpenSSL, TLS / mTLS, Kerberos, PKI, IdP
 
-#### Go frameworks and libraries
-+ _cryptography_ - crypto, go-jose
-+ _logging_ - zerolog, logrus
-+ _configuration_ - viper, cobra, pflag
-+ _middleware_ - gin, go-chi, huma, go-resiliency, oapi-codegen
-+ _unit tests_ - ginkgo, gomega, gomock
-+ _cloud_ - aws-sdk-go, aws-cdk-go, msgraph-sdk-go
-+ _protocols_ - http/https, grpc, TLS / mTLS, kerberos
-
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
 - Tiny but very useful utility Go library to manipulate slices - [slices](https://github.com/alexgaas/slices)
