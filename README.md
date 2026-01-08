@@ -50,6 +50,8 @@ acm-pca, OpenSSL, TLS / mTLS, Kerberos, PKI, IdP
 
 #### Personal projects and articles:
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
+- Tiny but very useful utility Go library to manipulate slices - [slices](https://github.com/alexgaas/slices)
+- Framework to manage prometheus metrics for your Go service - [metrics](https://github.com/alexgaas/metrics)
 - Bayesian optimization strategy implementations:
   - Hash-based to identify best option for set of compression algorithms - [exploit-explore](https://github.com/alexgaas/explore)
   - Gaussian randomization to evaluate best score for Wu-Manber, Aho-Carasic, Horspool search algorithms - [search3](https://github.com/alexgaas/search3)
