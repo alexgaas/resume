@@ -28,7 +28,7 @@ Go, Docker, DI, OOP, AWS, Azure, Redis, Opensearch, s3
 _Tags_:
 AWS Lambda, Step Functions, Cloudwatch, SQS, SNS, ECS, DynamoDB, ALB, API Gateway, Amazon IAM, Azure EntraID, Terraform, AWS CDK, Kubernates
 
-#### Identity and network (proficient to/with build services and libraries):
+#### Identity (proficient to/with build services and libraries):
 - custom data storage solutions based off Redis, Opensearch and s3 
 - private PKI services (with automation of generating, signing and managing of x509 certificate chains)
 - identity providers with support of OAuth, OIDC, SAML
