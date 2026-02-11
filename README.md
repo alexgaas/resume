@@ -34,12 +34,14 @@ AWS Lambda, Step Functions, Cloudwatch, SQS, SNS, ECS, DynamoDB, ALB, API Gatewa
 - identity providers with support of OAuth, OIDC, SAML
 - device posture in the private networks
 - secure libraries between identity services with TLS/mTLS
-- services based off Kerberos authentication
+- DNS based services
+- PIV based off Yubikeys
 
 _Tags_:
-acm-pca, OpenSSL, TLS / mTLS, Kerberos, PKI, IdP
+acm-pca, OpenSSL, TLS / mTLS, Kerberos, PKI, IdP, Yubikeys
 
 #### Personal projects and articles:
+- Rate limiter within bucket quote algorithm as package and example of it's usage with service and basic AWS lambda running on the Docker - [rate_limiter](https://github.com/alexgaas/rate_limiter)
 - Comprehensive notes on how to build effective scalable parallel and distributed aggregation of data (group by) - [agg](https://github.com/alexgaas/agg)
 - Tiny but very useful utility Go library to manipulate slices - [slices](https://github.com/alexgaas/slices)
 - Framework to manage prometheus metrics for your Go service - [metrics](https://github.com/alexgaas/metrics)
